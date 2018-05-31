@@ -1,2 +1,3 @@
 logo for the website
-version 1
+version 2
+made it a little brighter
